@@ -1,0 +1,25 @@
+.emoji {
+    flex: 1;
+}
+
+body {
+    font-family: 'Lato', serif;
+}
+
+.month {
+    flex: 6;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+.text-image {
+    float: left;
+    width: 40%;
+    margin-right: 20px;
+}
+
+.push {
+    margin-left: auto;
+}
